@@ -1,0 +1,2 @@
+{"services":[{"name":"web","type":"http","host":"127.0.0.1","port":8080,"path":"/health","timeout":2},{"name":"cache","type":"redis","host":"127.0.0.1","port":6379,"timeout":2},{"name":"echo","type":"tcp","host":"127.0.0.1","port":9000,"timeout":2}]}
+
